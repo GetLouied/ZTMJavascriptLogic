@@ -15,8 +15,8 @@ Solve the below 3 javascript puzzles. The goal of this challenge is to practice 
 
 #### Question 3: Write a function that converts HEX to RGB. Then Make that function auto-dect the formats so that if you enter HEX color format it returns RGB and if you enter RGB color format it returns HEX.
 
-  https://github.com/GetLouied/ZTMJavascriptLogic/commit/aca0dd49ee6a542b1bd0b25258ca372796359266
+https://github.com/GetLouied/ZTMJavascriptLogic/commit/aca0dd49ee6a542b1bd0b25258ca372796359266
 
-  Links that helped with conversions & Regex:
-  https://stackoverflow.com/questions/8027423/how-to-check-if-a-string-is-a-valid-hex-color-representation
-  https://stackoverflow.com/questions/5623838/rgb-to-hex-and-hex-to-rgb
+Links that helped with conversions & Regex for Question 3:
+> https://stackoverflow.com/questions/8027423/how-to-check-if-a-string-is-a-valid-hex-color-representation
+> https://stackoverflow.com/questions/5623838/rgb-to-hex-and-hex-to-rgb
